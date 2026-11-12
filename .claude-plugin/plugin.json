@@ -1,0 +1,10 @@
+{
+  "name": "sms-alert",
+  "description": "Send SMS and OTP, schedule messages, manage groups, contacts and templates, and read delivery reports through the SMS Alert (smsalert.co.in) API.",
+  "version": "1.0.0",
+  "author": {
+    "name": "SMS Alert"
+  },
+  "homepage": "https://www.smsalert.co.in",
+  "keywords": ["sms", "otp", "smsalert", "messaging", "india", "notifications"]
+}
