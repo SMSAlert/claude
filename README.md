@@ -51,8 +51,3 @@ python3 skills/sms-alert/scripts/smsalert.py send \
   `claude plugin marketplace add <your-repo>` then
   `claude plugin install sms-alert@sms-alert-marketplace`.
 - Anthropic's community marketplace: run `claude plugin validate .`, then submit through the plugin directory submission form.
-
-## Known limits
-
-- The docs page mixes `http` and `https` hosts and has a few inconsistent examples. The helper always calls `https://www.smsalert.co.in`.
-- Bulk JSON send, the XML push endpoint and bulk contact import are not wrapped. Ask SMS Alert for their current formats if you need them.
