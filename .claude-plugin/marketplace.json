@@ -1,0 +1,14 @@
+{
+  "name": "sms-alert-marketplace",
+  "owner": {
+    "name": "SMS Alert"
+  },
+  "plugins": [
+    {
+      "name": "sms-alert",
+      "source": "./",
+      "description": "Send SMS and OTP, schedule messages, manage groups, contacts and templates, and read delivery reports through the SMS Alert API.",
+      "version": "1.0.0"
+    }
+  ]
+}
