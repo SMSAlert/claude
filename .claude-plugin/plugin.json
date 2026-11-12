@@ -6,5 +6,6 @@
     "name": "SMS Alert"
   },
   "homepage": "https://www.smsalert.co.in",
+  "license": "MIT",
   "keywords": ["sms", "otp", "smsalert", "messaging", "india", "notifications"]
 }
